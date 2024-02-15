@@ -1,5 +1,5 @@
 - Employed Python for comprehensive FIFA data analysis.
-- Explored player perfomance, team dynamics, and tournament stats
+- Explored player performance, team dynamics, and tournament stats
 - Utilized advanced data visualization for intricate pattern depiction.
 - Uncovered valuable insights into player and team strategies.
 - Developed sophisticated algorithms for hidden correlation discovery.
